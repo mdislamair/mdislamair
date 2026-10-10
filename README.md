@@ -68,6 +68,6 @@ My goal is to build practical technical skills, create useful digital products, 
 
 ### ✨ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=mdislamair&style=flat-square&color=blue" alt="Profile views counter" />
+<img src="https://komarev.com/ghpvc/username=mdislamair&style=flat-square&color=blue" alt="Profile views counter" />
 
 </div>
