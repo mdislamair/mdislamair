@@ -12,8 +12,8 @@
   <a href="https://github.com/mdislamair">
     <img src="https://img.shields.io/badge/GitHub-mdislamair-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <a href="https://www.instagram.com/md.islam_air">
-    <img src="https://img.shields.io/badge/Instagram-md.islam__air-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
+  <a href="https://www.instagram.com/mdislamair">
+    <img src="https://img.shields.io/badge/Instagram-mdislamair-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
   </a>
   <a href="mailto:mdislam.inbox@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
