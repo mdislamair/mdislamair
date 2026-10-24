@@ -59,7 +59,7 @@ My goal is to build practical technical skills, create useful digital products, 
 ## 📫 Connect With Me
 
 - **GitHub:** [github.com/mdislamair](https://github.com/mdislamair)
-- **Instagram:** [@md.islam_air](https://www.instagram.com/md.islam_air)
+- **Instagram:** [@mdislamair](https://www.instagram.com/mdislamair)
 - **Email:** [mdislam.inbox@gmail.com](mailto:mdislam.inbox@gmail.com)
 
 ---
